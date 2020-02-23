@@ -24,7 +24,7 @@
     4. The code of python application is in "plot.py" file
     
     
-    #### PLOT:
+  #### PLOT:
     
     ![alt text](https://imgur.com/QYoU1w5 "Plot")
     
