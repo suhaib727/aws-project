@@ -26,9 +26,4 @@
     
   #### PLOT:
     
-    ![alt text](https://imgur.com/QYoU1w5 "Plot")
-    
-    
-    <img src="https://imgur.com/QYoU1w5"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+   See the plot image on this url: https://imgur.com/QYoU1w5
